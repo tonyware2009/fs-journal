@@ -9,7 +9,7 @@ change directory
 **2.** In the terminal, what is the command `mkdir` used for?
 <!-- enter you answer in the space below -->
 ```
-
+make directory
 ```
 
 **3.** What is the `\<html>\</html>` tag in a document?
@@ -21,7 +21,7 @@ change directory
 **4.** What does `HTML` stand for?
 <!-- enter you answer in the space below -->
 ```
-
+hypertext markup language
 ```
 
 **5.** What Does `CSS` stand for?
